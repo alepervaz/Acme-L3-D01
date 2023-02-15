@@ -14,7 +14,6 @@ package acme.datatypes;
 
 import javax.persistence.Embeddable;
 
-
 import acme.framework.components.accounts.DefaultUserIdentity;
 import lombok.Getter;
 import lombok.Setter;
