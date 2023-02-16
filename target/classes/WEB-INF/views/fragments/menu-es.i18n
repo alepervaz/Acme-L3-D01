@@ -22,6 +22,7 @@ master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.favourite-link.alesanfel = 76743201K: Santiago Félix, Alejandro
 master.menu.anonymous.favourite-link.alepervaz = 49190242G: Perez Vazquez 
 master.menu.anonymous.favourite-link.sersansan2 = 75918873J: Santiago Sánchez, Sergio
+master.menu.anonymous.favorite-link.marvicmar = 48190702K:Vico Martín, María
 
 # master.menu.administrator ###################################################
 
@@ -50,3 +51,4 @@ master.menu.user-account.provider = Datos de proveedor
 master.menu.user-account.become-provider = Hazte proveedor
 master.menu.user-account.consumer = Datos de consumidor
 master.menu.user-account.become-consumer = Hazte consumidor
+
