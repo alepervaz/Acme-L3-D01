@@ -15,7 +15,6 @@ package acme.features.authenticated.consumer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-
 import acme.framework.components.accounts.Authenticated;
 import acme.framework.components.accounts.Principal;
 import acme.framework.components.accounts.UserAccount;
@@ -52,10 +51,10 @@ public class AuthenticatedConsumerCreateService extends AbstractService<Authenti
 
 	@Override
 	public void load() {
-		Consumer	object;
-		Principal	principal;
-		int			userAccountId;
-		UserAccount	userAccount;
+		Consumer object;
+		Principal principal;
+		int userAccountId;
+		UserAccount userAccount;
 
 		principal = super.getRequest().getPrincipal();
 		userAccountId = principal.getAccountId();
