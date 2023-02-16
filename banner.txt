@@ -1,13 +1,12 @@
    ##       ####   ##   ##  #######           ####      ####
   ####     ##  ##  ### ###   ##   #            ##      ##  ##
  ##  ##   ##       #######   ## #              ##          ##
- ##  ##   ##       #######   ####    ######    ##        ###
+ ##  ##   ##       #######   ####              ##        ###
  ######   ##       ## # ##   ## #              ##   #      ##
  ##  ##    ##  ##  ##   ##   ##   #            ##  ##  ##  ##
  ##  ##     ####   ##   ##  #######           #######   ####
 
-                   
-
+                    
 Application:          ${acme.application.versioned-name}
 Application endpoint: http://localhost:${server.port}${server.servlet.contextPath}
 Database endpoint:    ${spring.datasource.url}
