@@ -23,4 +23,4 @@ Year 2022
 22.5 	No significant changes. Adapted to the new version of the Acme Framework.
 22.6 	No significant changes. Adapted to the new version of the Acme Framework.
 22.7 	No significant changes. Adapted to the new version of the Acme Framework.
-22.8 	No significant changes. Adapted to the new version of the Acme Framework.
+22.8 	No significant changes. Adapted to the new version of the Acme Framework
